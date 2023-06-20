@@ -1,0 +1,9 @@
+using query to create a table without going inside the database
+
+
+USE php_pratice_2023;  //this line is used to select database
+CREATE TABLE mytable(
+id int NOT null AUTO_INCREMENT PRIMARY KEY,
+name varchar(20) NOT null,
+    surename varchar(30) not null
+);
