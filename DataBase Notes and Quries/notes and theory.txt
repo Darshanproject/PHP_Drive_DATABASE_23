@@ -10,4 +10,18 @@ DBMS uses some queries to solve this
 
 SQL(Structured Query Language)
 Types:
-1). DDL:Data Definintion Language
+1). DDL:Data Definintion Language(i have 4 commonds in DDl 1).Create, 2).Drop, 3).Alter, 4).Truncate
+Commands 
+1).Create 
+	==>Create database databasename
+	=>CREATE table tableName(
+	==>This should be id alwyas for id you need this auto_increment
+		Column_names (Size),
+		Column_names (Size),
+		Column_names (Size),
+		);
+
+
+Example :
+		Create database mytable;
+		
