@@ -1,0 +1,13 @@
+DBMS: DataBase Management System
+used to manage large data in an efficient way 
+we need DBMS
+Database :to store large amout of data
+Note
+==>any name used for database,table or cols contain space 
+==>There is only one database for anone website/app/software
+==>however there may more than 1 table in that one database
+DBMS uses some queries to solve this
+
+SQL(Structured Query Language)
+Types:
+1). DDL:Data Definintion Language
